@@ -1,0 +1,3 @@
+rootProject.name = 'MobileComponentsExample'
+
+include ':app'
