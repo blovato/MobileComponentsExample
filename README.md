@@ -6,11 +6,11 @@
 
   `$ npm install`
 
-2. link sca-mobile-components repo to test here:
+2. link module [sca-mobile-components](https://github.com/blovato/sca-mobile-components) repo to test here:
 
     [using npm link](https://medium.com/@the1mills/how-to-test-your-npm-module-without-publishing-it-every-5-minutes-1c4cb4b369be#.a82sciofu)
 
-    1. in the root of sca-mobile-components run:
+    1. in the root of [sca-mobile-components](https://github.com/blovato/sca-mobile-components) run:
 
         `$ npm link`
 
